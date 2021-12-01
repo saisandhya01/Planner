@@ -19,7 +19,7 @@
   "homepage": "https://github.com/saisandhya01/entertaino#readme",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
-    "@joeattardi/emoji-button": "^4.0.2",
+    "@joeattardi/emoji-button": "^4.6.2",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "ejs": "^3.1.3",
